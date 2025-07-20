@@ -6,6 +6,14 @@ This Python script automates the process of sending unlock patterns or PIN codes
 
 ---
 
+## 📽️ Demo Video
+
+👉 [Watch on Instagram Reels](https://www.instagram.com/reel/CnHnxiZhIbx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+📸 [View Project Post](https://www.instagram.com/p/CnH9WvHyjej/?utm_source=ig_web_copy_link)
+
+---
+
 ## 🚀 How It Works
 
 - Connects to an Android device via ADB.
